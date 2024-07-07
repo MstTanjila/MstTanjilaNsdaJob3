@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93815772155",
+    "project_id": "locshareapp3job",
+    "storage_bucket": "locshareapp3job.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93815772155:android:e4273af3cb1a824f7b315e",
+        "android_client_info": {
+          "package_name": "com.msttanjila.locshareapp3job"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBswhM5LIVHXe7blEcdTAaYq72yRJklJYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
